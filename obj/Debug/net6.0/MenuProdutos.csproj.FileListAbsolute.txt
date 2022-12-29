@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\bin\Debug\net6.0\MenuProdutos.exe
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\bin\Debug\net6.0\MenuProdutos.deps.json
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\bin\Debug\net6.0\MenuProdutos.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\bin\Debug\net6.0\MenuProdutos.dll
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\bin\Debug\net6.0\MenuProdutos.pdb
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.dll
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\refint\MenuProdutos.dll
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.pdb
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\MenuProdutos.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\MenuProdutos\obj\Debug\net6.0\ref\MenuProdutos.dll
